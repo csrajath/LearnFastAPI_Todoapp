@@ -1,6 +1,6 @@
-# This repository demonstrates the
+## A repo to understand the fundamentals of FastAPI framework by building a simple todo app
 
-# The app is already hosted [here](https://fastapitodo.vercel.app/)
+## The app is already hosted [here](https://fastapitodo.vercel.app/)
 1. [list all tasks](https://fastapitodo.vercel.app/task)
 2. [list specific tasks](https://fastapitodo.vercel.app/task/1)
 
